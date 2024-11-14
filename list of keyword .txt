@@ -1,0 +1,15 @@
+1. Variable Declarations:
+var, let, const
+2. Control Flow:
+if, else, switch, case, default
+for, while, do, break, continue
+3. Functions and Classes:
+function, return, class, extends, constructor, super
+4. Exception Handling:
+try, catch, finally, throw
+5. Data Types and Literals:
+null, true, false, typeof, instanceof, new
+6. Miscellaneous Keywords:
+this, delete, in, of, yield, await (for async programming)
+7. Reserved for Future Use:
+enum, implements, interface, package, private, protected, public, static
